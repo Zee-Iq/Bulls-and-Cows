@@ -37,7 +37,6 @@ button.addEventListener("click", function () {
         }
       }
     }
-    
 
     result.textContent = bull + " Bulls " + cow + " Cows ";
     input.value = "";
